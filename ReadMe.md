@@ -1,7 +1,7 @@
 # IBM_BEHINDTHECODE_2020
 
-- [Descricao Desafio 1](https://github.com/maratonadev-br/desafio-1-2020) | COCAMAR
+- [Description](https://github.com/maratonadev-br/desafio-1-2020) | COCAMAR (portuguese)
 
 
-# Este Repositório Contém:
-- O código emplementado para data augmentation e alguns exemplos de imagens.
+# This Repository Contains:
+- The code implemented for data augmentation and some examples of images.
